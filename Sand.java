@@ -9,6 +9,13 @@ class Sand{
       System.out.println(s);
     }
   }
+  
+  class Pink{
+    String msg="I am in pink class";
+    void display(){
+      System.out.println(msg);
+    }
+  }
 }
 
 //This is inner class
