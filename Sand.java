@@ -10,3 +10,5 @@ class Sand{
     }
   }
 }
+
+//This is inner class
