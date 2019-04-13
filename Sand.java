@@ -16,6 +16,14 @@ class Sand{
       System.out.println(msg);
     }
   }
+  
+  //new features
+  class Call{
+    String s="I can call";
+    public void display(){
+      System.out.println(s);
+    }
+  }
 }
 
 //This is inner class
